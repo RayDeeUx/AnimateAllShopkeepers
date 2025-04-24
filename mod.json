@@ -6,12 +6,12 @@
 		"android": "2.2074",
 		"ios": "2.2074"
 	},
-	"id": "$MOD_ID",
-	"name": "$MOD_NAME",
+	"id": "raydeeux.animateallshopkeepers",
+	"name": "AnimateAllShopkeepers",
 	"version": "v1.0.0",
 	"developer": "RayDeeUx",
-	"description": "$MOD_DESCRIPTION",
-	"repository": "https://github.com/RayDeeUx/$MOD_NAME",
+	"description": "Read the mod name.",
+	"repository": "https://github.com/RayDeeUx/AnimateAllShopkeepers",
 	"settings": {
 		"enabled": {
 			"name": "Enabled",
@@ -19,11 +19,6 @@
 			"type": "bool",
 			"default": true
 		}
-	},
-	"resources": {
-		"sprites": [
-			"resources/*.png"
-		]
 	},
 	"issues": {
 		"url": "https://discord.com/channels/911701438269386882/1205523212444639292",

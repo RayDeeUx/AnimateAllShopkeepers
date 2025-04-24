@@ -1,3 +1,3 @@
-# $MOD_NAME Changelog
+# AnimateAllShopkeepers Changelog
 ## v1.0.0
 - Initial release (on GitHub).
